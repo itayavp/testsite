@@ -1,2 +1,2 @@
-alert(window.location.href)
-debugger;
+console.log(window.location.href)
+
